@@ -1,0 +1,1 @@
+Well, this is just the dump for a script I made to transfer my files over LAN, and it uses Java to download stuff with multithreading and nginx as the server, and it can easily reach speeds of 2.5Gs, hence utilizing most of present NICs. I will make an updated version with C later.
